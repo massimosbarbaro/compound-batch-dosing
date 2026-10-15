@@ -24,11 +24,11 @@ I designed and programmed this application in 2002–2003. It is published here 
 
 ## Data
 
-Microsoft Access database through DAO 3.6. Main tables: `Formule`, `SE`, `MP`, `DescrizMesc`, `Turno`, `Operaio`, `Controtipo`, `Parametri`, plus staging tables for ERP imports.
+Database through DAO 3.6. Main tables: `Formule`, `SE`, `MP`, `DescrizMesc`, `Turno`, `Operaio`, `Controtipo`, `Parametri`, plus staging tables for ERP imports.
 
 ## Technology
 
-DAO 3.6, Microsoft Access object library, Crystal Reports 8.5 (RDC, viewer, export), Winsock, Common Controls, Tab control, Masked Edit, DBGrid.
+DAO 3.6, db object library, Crystal Reports 8.5 (RDC, viewer, export), Winsock, Common Controls, Tab control, Masked Edit, DBGrid.
 
 ## Repository contents
 
