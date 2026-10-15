@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186695"
 repository-code: "https://github.com/massimosbarbaro/compound-batch-dosing"
 keywords:
-  - "Visual Basic 6"
   - "manufacturing execution"
   - "batch dosing"
   - "calendering"
